@@ -59,6 +59,7 @@ Key visualization features:
   - 🔴 **Red** → Incorrect gesture
 
 Animations help in visually understanding **movement quality and posture correctness** during rehabilitation exercises.
+![skeleton](https://github.com/user-attachments/assets/5ed23b13-6df2-4dab-8e41-182d0d93d8cd)
 
 ---
 
