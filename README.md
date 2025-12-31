@@ -89,12 +89,6 @@ Animations help in visually understanding **movement quality and posture correct
 - `visualization.ipynb.pdf` – Exported visualization notebook (for GitHub viewing)
 - `classification.ipynb.pdf` – Exported analysis notebook (for GitHub viewing)
 
-> 📌 Note:  
-> The original notebooks are large and stored using **Git LFS**.  
-> GitHub may not render them directly. Please refer to the **PDF versions** or download the notebooks locally to view full outputs.
-
----
-
 ## 🧩 Application Domain
 - Physiotherapy rehabilitation monitoring
 - Assistive healthcare analytics
