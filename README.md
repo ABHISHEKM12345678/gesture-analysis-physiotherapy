@@ -72,6 +72,18 @@ Animations help in visually understanding **movement quality and posture correct
 - Useful for **qualitative assessment** rather than clinical diagnosis
 
 ---
+![gesture_0_correct_vs_incorrect](https://github.com/user-attachments/assets/acaedb0d-9718-439a-9aa8-c45694c30baf)
+![gesture_1_correct_vs_incorrect](https://github.com/user-attachments/assets/e03a7ace-963d-48f5-a37b-3637ab66dd25)
+![gesture_2_correct_vs_incorrect](https://github.com/user-attachments/assets/02a2a627-c0e1-4781-a602-022dca1a85bf)
+![gesture_3_correct_vs_incorrect](https://github.com/user-attachments/assets/2134b956-a1d6-4d4c-9433-b1b734f702dd)
+![gesture_4_correct_vs_incorrect](https://github.com/user-attachments/assets/6389adce-3bbc-4bef-a4c8-a07cae36048a) 
+![gesture_5_correct_vs_incorrect](https://github.com/user-attachments/assets/2941f266-162c-4c4d-9e83-512eecf66546)
+![gesture_6_correct_vs_incorrect](https://github.com/user-attachments/assets/40bc8966-c6b4-44f1-8711-a08826da798b)
+![gesture_7_correct_vs_incorrect](https://github.com/user-attachments/assets/e1dcd7f2-4467-45ca-96ec-b6f01d1c7ee0)
+![gesture_8_correct_vs_incorrect](https://github.com/user-attachments/assets/4777b7f0-42a8-4118-bab4-3688a21b468e)
+
+
+
 
 ## 🛠️ Technologies Used
 - **Python**
